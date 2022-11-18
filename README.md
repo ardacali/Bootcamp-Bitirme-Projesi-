@@ -11,17 +11,22 @@ Senaryoda omurga hem IPV4 hem de IPV6 olarak dual stack çalışması bekleniyor
 
 
 İkinci adım olarak routerların konfigürasyonları tamamlandı.
+
 Router1:
+
 ![router111](https://user-images.githubusercontent.com/115926736/202724169-e466207a-8f51-46a5-bb1a-ae5a7d2a978f.png)
 
 
 
 Router2:
+
 ![router 2 konfig](https://user-images.githubusercontent.com/115926736/202724224-64935075-7e3a-4b4a-a598-f86f0bfabf0c.png)
 
 
 Router0:
+
 ![router 0 konf](https://user-images.githubusercontent.com/115926736/202724280-42bd08fd-0f9d-499f-84dd-fc830849752b.png)
+
 
 ![router0 konf2](https://user-images.githubusercontent.com/115926736/202724339-eea3776c-d08b-4c03-a1ef-b3c03abf8581.png)
 
