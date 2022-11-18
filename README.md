@@ -6,39 +6,43 @@ Senaryoda omurga hem IPV4 hem de IPV6 olarak dual stack çalışması bekleniyor
 
 
 İlk adımda cihazların IP konfigürasyonları yapıldı.
-![WhatsApp Image 2022-11-18 at 16 31 37](https://user-images.githubusercontent.com/115926736/202716532-e3b4a215-9674-4b92-bd7b-9cf40c208bf2.jpeg)
-![WhatsApp Image 2022-11-18 at 16 32 20](https://user-images.githubusercontent.com/115926736/202716675-4ea7e23f-22fd-4c27-bd8c-fad170980d33.jpeg)
+![ip conf](https://user-images.githubusercontent.com/115926736/202723938-b5ea3465-0c50-451b-86c5-bd3bfbd8f344.png)
+![ip conf](https://user-images.githubusercontent.com/115926736/202724006-7f1e4142-dab2-4d8a-9be5-fbea8312a247.png)
+
 
 İkinci adım olarak routerların konfigürasyonları tamamlandı.
 Router1:
-![WhatsApp Image 2022-11-18 at 16 33 31](https://user-images.githubusercontent.com/115926736/202717110-cb1889f9-5127-414b-aada-678e80eca8c6.jpeg)
+![router111](https://user-images.githubusercontent.com/115926736/202724169-e466207a-8f51-46a5-bb1a-ae5a7d2a978f.png)
+
 
 
 Router2:
-![WhatsApp Image 2022-11-18 at 16 33 49](https://user-images.githubusercontent.com/115926736/202717155-11ea84e2-c110-40d4-aae0-0bc61ea78d88.jpeg)
+![router 2 konfig](https://user-images.githubusercontent.com/115926736/202724224-64935075-7e3a-4b4a-a598-f86f0bfabf0c.png)
 
 
 Router0:
-![WhatsApp Image 2022-11-18 at 16 34 02](https://user-images.githubusercontent.com/115926736/202717262-0f2babe9-34eb-4f82-b3f5-a7db67c41aec.jpeg)
+![router 0 konf](https://user-images.githubusercontent.com/115926736/202724280-42bd08fd-0f9d-499f-84dd-fc830849752b.png)
 
-![WhatsApp Image 2022-11-18 at 16 34 18](https://user-images.githubusercontent.com/115926736/202717294-4c27e410-10e4-4a66-9144-de3106d3e167.jpeg)
+![router0 konf2](https://user-images.githubusercontent.com/115926736/202724339-eea3776c-d08b-4c03-a1ef-b3c03abf8581.png)
+
 
 Gerekli konfigürasyonların ardından server DNS konfigürasyonları yapıldı.
-![WhatsApp Image 2022-11-18 at 16 37 17](https://user-images.githubusercontent.com/115926736/202717647-32dcf560-fed4-4409-93af-786398cd661f.jpeg)
+![dns](https://user-images.githubusercontent.com/115926736/202724521-e1db2c63-660a-47e7-af3c-644fa5ac828f.png)
+
 
 Konfigürasyonların tamamlanmasının ardından gerekli ping testleri ve web browser doğruluğu kontrol edildi.
 
 PC0 için ;
-![WhatsApp Image 2022-11-18 at 00 05 57 (1)](https://user-images.githubusercontent.com/115926736/202718460-cf80fe4c-1554-4d0c-be23-449e4f9c706f.jpeg)
-![WhatsApp Image 2022-11-18 at 16 39 52](https://user-images.githubusercontent.com/115926736/202718580-b4ab01e7-4159-47b9-a9d3-3c85a231780e.jpeg)
-![WhatsApp Image 2022-11-18 at 00 06 01](https://user-images.githubusercontent.com/115926736/202718604-66dfea0b-513b-4cb7-a757-ef62d85f1d83.jpeg)
-![WhatsApp Image 2022-11-18 at 00 06 06](https://user-images.githubusercontent.com/115926736/202718660-d1fc68d0-a171-4b5e-b983-a39e4751223a.jpeg)
+![cisco web](https://user-images.githubusercontent.com/115926736/202724615-1d572d46-3216-41be-98b7-a4395c79868e.png)
+![cisco web6](https://user-images.githubusercontent.com/115926736/202724650-ad8c3d88-85bd-4319-becb-21c1d502ca2b.png)
+![pc0 ping](https://user-images.githubusercontent.com/115926736/202724690-c4698b50-0303-40e5-a107-9947561ba18c.png)
+
 
 Laptop0 için ;
-![WhatsApp Image 2022-11-18 at 00 06 06 (1)](https://user-images.githubusercontent.com/115926736/202718924-9da8d382-244e-4127-b673-dd0003ccd6ae.jpeg)
-![WhatsApp Image 2022-11-18 at 16 40 16](https://user-images.githubusercontent.com/115926736/202718974-4742e780-d057-4903-be1b-c8f4cf6a6128.jpeg)
-![WhatsApp Image 2022-11-18 at 00 06 05](https://user-images.githubusercontent.com/115926736/202719012-be7222d4-5481-4015-9692-a5788da2a481.jpeg)
-![WhatsApp Image 2022-11-18 at 00 06 04](https://user-images.githubusercontent.com/115926736/202719053-2adc0e67-ddb9-44fd-9067-6019c7781cc6.jpeg)
+![laptop0 web](https://user-images.githubusercontent.com/115926736/202724806-2dda64d8-64b0-4983-a65a-683e43bcaa8a.png)
+![laptop0 web6](https://user-images.githubusercontent.com/115926736/202724830-e42dbc1b-ac10-44c0-a716-7ab643e41c8a.png)
+![laptopping](https://user-images.githubusercontent.com/115926736/202724987-10c6b6ef-3bcd-4064-b610-baeb587486a5.png)
+
 
 
 
